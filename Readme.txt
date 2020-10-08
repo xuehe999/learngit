@@ -11,3 +11,5 @@ hello world
 solve the conflict in bug
 solve the bug!
 write a flag:  issue-101
+=======
+stash
