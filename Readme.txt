@@ -12,3 +12,7 @@ hello world
 solve the bug!
 
 write a flag:  issue-101
+solve the conflict in bug
+solve the bug!
+write a flag:  issue-101
+stash
